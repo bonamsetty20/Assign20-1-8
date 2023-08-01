@@ -1,0 +1,11 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\bin\Debug\BookLib.dll
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\bin\Debug\BookLib.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CopyComplete
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date1-8\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
